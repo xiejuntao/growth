@@ -25,9 +25,11 @@
 
 *2021-11-14*
 
-* 容量保障(40%)
+* 容量保障(100%)
 * serverless [腾讯云](https://cloud.tencent.com/product/serverless-catalog)
 
 *2021-11-15*
-
+* Kafka Connect与Kafka Streams(80%)
+* Kafka集群调优与监控与管理(api)(80%)
+* JMX
 
