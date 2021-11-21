@@ -1,51 +1,23 @@
 时间为你证明
 
-*2021-11-10*
+*2021-11-21*
+* 乐
 
-* Nacos
-* Dubbo 设计思想 [参见](https://segmentfault.com/a/1190000040258222)
-* Dubbo SPI [参见](https://dubbo.apache.org/zh/docsv2.7/dev/source/dubbo-spi/)
-* Dubbo SPI 自适应拓展 [参见](https://dubbo.apache.org/zh/docsv2.7/dev/source/adaptive-extension/)
+*2021-11-20*
+* 书：心力
+* 乐
 
-*2021-11-11*
+*2021-11-19*
+* 算法：哈希算法、一致性哈希
+* 算法：二叉树（90%）
 
-* TIYA服务演进脑图
-* Dubbo 服务导出与引用（50%）
-* Kafka stream
-
-*2021-11-12*
-
-* Kafka环境（退版本安装）
-* kafka设计(5%)
-* 容量保障(60%)
-
-*2021-11-13*
-
-* 缺
-
-*2021-11-14*
-
-* 容量保障(100%)
-* serverless [腾讯云](https://cloud.tencent.com/product/serverless-catalog)
-
-*2021-11-15*
-
-* Kafka Connect与Kafka Streams(80%)
-* Kafka集群调优与监控与管理(api)(80%)
-* JMX
-* 算法：冒泡排序
-* Kafka副本机制
-
-*2021-11-16*
-
-* 心得：长期的事（11月30日，算法第一阶段）
-* 面试算法：第8章大数据(65%)
+*2021-11-18*
+* 算法：特殊二分查找
 * Other
-* Kafka设计
-* 算法:Trie
+* 算法：跳表SkipList(60%)
+* 算法：散列表(70%)
 
 *2021-11-17*
-
 * TIYA
 * 墨刀
 * 面试算法：第6章基本数字运算(55%)
@@ -53,22 +25,39 @@
 * 算法：图（75%）
 * 算法：二分查找
 
-*2021-11-18*
-
-* 算法：特殊二分查找
+*2021-11-16*
+* 心得：长期的事（11月30日，算法第一阶段）
+* 面试算法：第8章大数据(65%)
 * Other
-* 算法：跳表SkipList(60%)
-* 算法：散列表(70%)
+* Kafka设计
+* 算法:Trie
 
-*2021-11-19*
+*2021-11-15*
+* Kafka Connect与Kafka Streams(80%)
+* Kafka集群调优与监控与管理(api)(80%)
+* JMX
+* 算法：冒泡排序
+* Kafka副本机制
 
-* 算法：哈希算法、一致性哈希
-* 算法：二叉树（90%）
+*2021-11-14*
+* 容量保障(100%)
+* serverless [腾讯云](https://cloud.tencent.com/product/serverless-catalog)
 
-*2021-11-20*
+*2021-11-13*
+* 缺
 
-* 书：心力
-* 乐
+*2021-11-12*
+* Kafka环境（退版本安装）
+* kafka设计(5%)
+* 容量保障(60%)
 
-*2021-11-21*
-* 乐
+*2021-11-11*
+* TIYA服务演进脑图
+* Dubbo 服务导出与引用（50%）
+* Kafka stream
+
+*2021-11-10*
+* Nacos
+* Dubbo 设计思想 [参见](https://segmentfault.com/a/1190000040258222)
+* Dubbo SPI [参见](https://dubbo.apache.org/zh/docsv2.7/dev/source/dubbo-spi/)
+* Dubbo SPI 自适应拓展 [参见](https://dubbo.apache.org/zh/docsv2.7/dev/source/adaptive-extension/)
