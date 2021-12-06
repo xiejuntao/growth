@@ -1,44 +1,65 @@
-*时间为你证明*
+*Start all over again*
+
+*2021-12-12*
+* Spring
+* Algorithm Interview
+* PM
+
+*20221-12-11*
+* Spring
+* Algorithm Interview
+* PM
+
+*2021-12-10*
+* Architecture
+* Algorithm Interview
+
+*2021-12-09*
+* Architecture
+* Algorithm Interview
+
+*2021-12-08*
+* Architecture
+* Algorithm Interview
+
+*2021-12-07*
+* JAVA Interview
+* RPC
+* Resume
+
+*2021-12-06*
+* JAVA Interview(id)
+* TIYA
+* RPC
+* Resume
 
 *2021-12-05*
-* 简历
-* 算法面试
-* 项管
+* Resume
+* RPC(gRPC、高级篇)
 
 *2021-12-04*
-* 简历
-* 算法面试
-* 项管
+* RPC(基础篇、bytebuddy)
 
 *2021-12-03*
 * Review
-* Java面试
-* 常规架构
-* 算法面试
-* 项管
+* 乐
 
 *2021-12-02*
 * Review
-* Java面试
-* 常规架构
-* 算法面试
-* 项管
+* PM
 
 *2021-12-01*
 * Review
-* Java面试
-* 常规架构
-* 算法面试
-* 项管
+* Algorithm Interview(动态规划)
 
 *2021-11-30*
-* 算法（动态规划、回溯、堆、大纲）
-* 算法面试
+* Algorithm（动态规划、回溯、堆、大纲）
+* Algorithm Interview
 * 项管
 
 *2021-11-29*
-* 算法（推荐向量空间（欧几里得距离）、朴素贝叶斯概率算法、动态规划（状态转移表法））
-* 乐
+* Algorithm（推荐向量空间（欧几里得距离）、朴素贝叶斯概率算法、动态规划（状态转移表法））
+* PM
 
 *2021-11-28*
 * 缺
@@ -48,13 +69,13 @@
 * k8s pod、etcd
 
 *2021-11-26*
-* 算法：位图、B+树、实战篇
+* Algorithm：位图、B+树、实战篇
 * 乐
 
 
 *2021-11-25*
 * TIYA
-* 算法：动态规划(10%)
+* Algorithm：动态规划(10%)
 * WQ
 * k8s pod
 
