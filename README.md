@@ -12,24 +12,24 @@
 
 *2021-12-10*
 * Architecture
+* RPC(custom)
 * Algorithm Interview
 
 *2021-12-09*
-* JAVA Interview（其它）
-* Architecture
-* Algorithm Interview
+* JAVA Interview（other）
+* RPC(custom)
+* Resume
 
 *2021-12-08*
-* JAVA Interview(Java进阶 (16讲))
+* JAVA Interview(advance)
 * Architecture
 * RPC
 * Resume
 
 *2021-12-07*
-* JAVA Interview(Java基础 (14讲))
-* Architecture
+* JAVA Interview(base)
+* Architecture(5%)
 * RPC
-* Resume
 
 *2021-12-06*
 * JAVA Interview(id)
