@@ -1,0 +1,46 @@
+
+            ########请按需要修改DOMIAN########
+            DOMAIN="fm.zhiya.user.Bootstrap"
+            SERVER_CLASS="${DOMAIN} ${IDX}"
+
+            ########请按需要修改java启动命令#######
+            /usr/local/java1.8/bin/java \
+                        -server \
+                        -Dconf.env=product \
+                        -Denv=pro \
+                        -Dconf.key=ty_dc_user2 \
+                        -Dlog.path=${LOG_PATH} \
+                        -Ddubbo.config.key=lz-dubbo-config \
+                        -Dservice_domain=as-ty-aleufr \
+                        -DdsClient.key=datastore-client \
+                        -DdsReport.key=datastore-report \
+                        -Dframework.key=framework-config \
+                        -Dlocal.ip=$LOCAL_IP \
+                        -Dapp.name=$APP_NAME \
+                        -Dapp.idx=$APP_IDX \
+                        -Dproject.path=$PROJ_PATH \
+                        -Dlogback.configurationFile=$PROJ_PATH/conf/logback.xml \
+                        -Dconfig.outer=$PROJ_PATH/conf/lizhi.properties \
+                        -Djava.net.preferIPv4Stack=true \
+                        -Xloggc:/dev/shm/${IDX}_gc.log \
+                        -XX:+PrintReferenceGC \
+                        -XX:+ParallelRefProcEnabled \
+                        -Xmx${JAVA_MEMORY-3072}M \
+                        -Xms${JAVA_MEMORY-3072}M \
+                        -Xss256k \
+                        -XX:PermSize=256M \
+                        -XX:MaxPermSize=256M \
+                        -XX:+PrintGCDateStamps \
+                        -XX:+PrintGCDetails \
+                        -XX:+UseG1GC \
+                        -XX:+UnlockExperimentalVMOptions \
+                        -XX:G1LogLevel=finest \
+                        -XX:InitiatingHeapOccupancyPercent=25 \
+                        -XX:MaxGCPauseMillis=180 \
+                        -XX:G1HeapRegionSize=8m \
+                        -XX:+PrintFlagsFinal \
+                        -XX:ParallelGCThreads=12 \
+                        -XX:ConcGCThreads=4 \
+                        -XX:+PrintGCApplicationStoppedTime \
+                        -XX:+PrintGCApplicationConcurrentTime \
+                        ${SERVER_CLASS} 2>&1 | spk.log.rotate ${LOG_PATH}/server_stdout.%Y-%M-%D.log 1  &             

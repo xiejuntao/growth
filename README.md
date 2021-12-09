@@ -12,19 +12,17 @@
 
 *2021-12-10*
 * Architecture
-* RPC(custom)
+* Resume
 * Algorithm Interview
 
 *2021-12-09*
 * JAVA Interview（other）
-* RPC(custom)
-* Resume
+* JVM
 
 *2021-12-08*
 * JAVA Interview(advance)
 * Architecture
 * RPC
-* Resume
 
 *2021-12-07*
 * JAVA Interview(base)
