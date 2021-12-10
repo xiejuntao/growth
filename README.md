@@ -1,31 +1,31 @@
 *Start all over again*
 
 *2021-12-12*
-* Spring
+* Resume
 * Algorithm Interview
 * PM
 
 *20221-12-11*
-* Spring
+* Resume
 * Algorithm Interview
 * PM
 
 *2021-12-10*
+* JAVA Interview
 * Architecture
 * Resume
-* Algorithm Interview
-
-*2021-12-09*
-* JAVA Interview（other）
 * JVM
 
+*2021-12-09*
+* JAVA Interview
+* JVM（10%）
+
 *2021-12-08*
-* JAVA Interview(advance)
-* Architecture
+* JAVA Interview
 * RPC
 
 *2021-12-07*
-* JAVA Interview(base)
+* JAVA Interview
 * Architecture(5%)
 * RPC
 
