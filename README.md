@@ -1,19 +1,50 @@
 *Start all over again*
 
-*2021-12-12*
-* Resume
+*2021-12-19*
 * Algorithm Interview
+* Management
+
+*2021-12-18*
+* Algorithm Interview
+* Management
+
+*2021-12-17*
+* Spring
+* Algorithm Interview
+* Management
+
+*2021-12-16*
+* Spring
+* Algorithm Interview
+* Management
+
+*2021-12-15*
+* Spring
+* Algorithm Interview
+* Management
+
+*2021-12-14*
+* Architecture
 * PM
+* Management
+
+*2021-12-13*
+* Architecture
+* PM
+* Management
+
+*2021-12-12*
+* 闲
+* Architecture
+* Management
 
 *20221-12-11*
 * Resume
-* Algorithm Interview
-* PM
+* JAVA JVM
 
 *2021-12-10*
 * JAVA Interview
 * Architecture
-* Resume
 * JVM
 
 *2021-12-09*
