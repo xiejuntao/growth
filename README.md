@@ -1,32 +1,28 @@
-*Start all over again*
+*Start all over again,again*
 
 *2021-12-19*
+* Spring
 * Algorithm Interview
-* Management
+* PM
 
 *2021-12-18*
+* Spring
 * Algorithm Interview
-* Management
+* PM
 
 *2021-12-17*
-* Spring
-* Algorithm Interview
-* Management
+* Architecture(扩展性)
 
 *2021-12-16*
-* Spring
-* Algorithm Interview
-* Management
+* Reactor(MemCache)
 
 *2021-12-15*
-* Spring
-* Algorithm Interview
-* Management
+* Scalable IO
+
 
 *2021-12-14*
-* Architecture
-* PM
-* Management
+* Architecture（高可用、人性）
+* PM（流程）
 
 *2021-12-13*
 * Architecture
