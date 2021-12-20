@@ -1,17 +1,26 @@
 *Start all over again,again*
 
-*2021-12-19*
-* Spring
-* Algorithm Interview
+*2021-12-21*
+* Spring?
+* Algorithm Interview 
+
+*2021-12-20*
+* Architecture
 * PM
+* Review
+
+
+*2021-12-19*
+* Nio
+* LIVE
 
 *2021-12-18*
-* Spring
-* Algorithm Interview
-* PM
+* Reactor
+* System
 
 *2021-12-17*
 * Architecture(扩展性)
+* System
 
 *2021-12-16*
 * Reactor(MemCache)
