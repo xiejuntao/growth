@@ -1,14 +1,68 @@
 *Start all over again,again*
 
+*TODO*
+* Spring ioc、aop、web
+* Algorithm Interview（A日常）
+* 存储:队列Kafka、Mongo、Redis、Mysql
+* NIO Reactor
+* RPC实践、dubbo
+* 管理
+* PM总结
+* 容量保障总结
+* 架构总结
+
+*2021-12-31*
+* 服务治理，容量保障总结
+
+*2021-12-30*
+* MQ
+* Spring
+* A
+
+*2021-12-29*
+* MQ
+* Spring
+* A
+
+*2021-12-28*
+* Spring
+* Kafka build
+* A
+
+*2021-12-27*
+* Spring
+* Kafka build
+* A
+
+*2021-12-26*
+* 乐
+* MQ
+
+*2021-12-25*
+* MQ
+* 闲
+
+*2021-12-24*
+* Spring
+* 闲
+
+*2021-12-23*
+* Spring
+* 郭东白的架构课
+
+*2021-12-22*
+* Spring
+* TIYA
+* PM
+
 *2021-12-21*
-* Spring?
-* Algorithm Interview 
+* Architecture
+* 郭东白的架构课
 
 *2021-12-20*
 * Architecture
 * PM
 * Review
-
 
 *2021-12-19*
 * Nio
