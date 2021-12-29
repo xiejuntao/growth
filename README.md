@@ -20,14 +20,13 @@
 * A
 
 *2021-12-29*
-* MQ
-* Spring
+* Kafka build
 * A
 
 *2021-12-28*
-* Kafka build
-* Spring
-* A
+* Kafka build(2)
+* Spring(0)
+* A(1)
 
 *2021-12-27*
 * Spring(6.5)
