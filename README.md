@@ -1,6 +1,6 @@
 *Start all over again,again*
 
-*TODO*
+*GOING*
 * Spring ioc、aop、web
 * Algorithm Interview（A日常）
 * 存储:队列Kafka、Mongo、Redis、Mysql
@@ -15,13 +15,14 @@
 * 服务治理，容量保障总结
 
 *2021-12-30*
+* TIYA
 * MQ
 * Spring
 * A
 
 *2021-12-29*
-* Kafka build
-* A
+* Kafka build(4)
+* A(2)
 
 *2021-12-28*
 * Kafka build(2)
