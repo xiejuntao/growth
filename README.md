@@ -6,7 +6,7 @@
 * Spring ioc、aop、web
 * Algorithm Interview（A日常，3/10）
 * 存储:队列Kafka(2/10)、Mongo(2/14)、Redis(2/18)、Mysql(2/25)
-* NIO Reactor(2/6)
+* NIO Reactor(2/7)
 * RPC实践(2/23)、dubbo(3/3)
 * 管理
 * PM总结
@@ -14,12 +14,42 @@
 * 架构总结
 
 *Milestone*
-* 2/28 小试锋芒
-* 3/10 准备就绪
-* 3/31 冲刺大厂
+* 2/28 Test
+* 3/10 Ready
+* 3/31 Success
+
+*2022-2-9*
+* MQ
+* A
+
+*2022-2-8*
+* NIO Reactor
+* [MQ](https://time.geekbang.org/column/article/110459?cid=100032301)
+* A
+
+*2022-2-7*
+* 高可用nPRT[阿里文摘](https://mp.weixin.qq.com/s/ZekA8d9uE4at4bagUqr65g)
+* NIO Reactor(60%)
+* A
+
+*2022-2-6*
+* 空.
+
+*2022-2-5*
+* 空.
+
+*2022-2-4*
+* C'est la vie.
+
+*2022-2-3*
+* C'est la vie.
+
+*2022-2-2*
+* C'est la vie.
 
 *2022-2-1*
 * Plan
+* C'est la vie.
 
 *2022-1-31*
 * C'est la vie.
