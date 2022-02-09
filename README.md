@@ -27,7 +27,7 @@
 * A
 
 *2022-2-12*
-* Mongo
+* MQ
 * A
 
 *2022-2-11*
@@ -35,18 +35,19 @@
 * A
 
 *2022-2-10*
+* NIO Reactor
 * MQ
 * A
 
 *2022-2-9*
-* NIO Reactor
-* MQ
+* NIO Reactor(8)
+* MQ(0)
 * A
 
 *2022-2-8*
 * NIO Reactor(6)
 * MQ(0)
-* A
+* A(7)
 
 *2022-2-7*
 * 高可用nPRT[阿里文摘](https://mp.weixin.qq.com/s/ZekA8d9uE4at4bagUqr65g)
